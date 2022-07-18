@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46636876befd4be4b6d543367d2da202, type: 3}
+  m_Name: Open Weather API Settings
+  m_EditorClassIdentifier: 
+  AppID: d9c1838902d965f5714d06dc3d97b670
+  BaseURL: http://api.openweathermap.org/data/2.5/weather
+  Units: 1
