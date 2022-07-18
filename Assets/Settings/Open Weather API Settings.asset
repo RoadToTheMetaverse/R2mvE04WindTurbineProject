@@ -13,5 +13,6 @@ MonoBehaviour:
   m_Name: Open Weather API Settings
   m_EditorClassIdentifier: 
   AppID: d9c1838902d965f5714d06dc3d97b670
-  BaseURL: http://api.openweathermap.org/data/2.5/weather
+  BaseDataURL: http://api.openweathermap.org/data/2.5/weather
+  BaseIconURL: http://openweathermap.org/img/wn/
   Units: 1
